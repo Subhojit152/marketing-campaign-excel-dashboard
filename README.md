@@ -1,5 +1,6 @@
 # marketing-campaign-excel-dashboard
 # 📊 Marketing Campaign Dashboard (Excel)
+[Download Excel Dataset](https://drive.google.com/file/d/1ibvZv_QbseDfoK47y7eSDjhPdsG8PJey/view?usp=drive_link)
 
 ## 🔎 Project Overview
 Analyzed a Marketing Campaign dataset of 2,000+ customers to identify churn behavior and key retention drivers. 
